@@ -9,7 +9,7 @@
 <br>
 
 	
-## <picture><img src = "https://cdn.discordapp.com/attachments/1200098962691084298/1203835341572804709/9eb31c9c64fc5dad055091e7bc932daa.jpg?ex=65d28a07&is=65c01507&hm=35cc8e23531a6f34042bdc0f09b2543c73f32dadf0b90ab75f8438ab93fb23bf&" width = 50px></picture> **About me**
+## **About me**
 
 <br>
 
@@ -34,6 +34,7 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![Go](https://img.shields.io/badge/go-%230175C2.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <br>   
     
