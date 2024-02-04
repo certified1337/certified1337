@@ -9,7 +9,7 @@
 <br>
 
 	
-## <picture><img src = "./img/star.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://cdn.discordapp.com/attachments/1200098962691084298/1203835341572804709/9eb31c9c64fc5dad055091e7bc932daa.jpg?ex=65d28a07&is=65c01507&hm=35cc8e23531a6f34042bdc0f09b2543c73f32dadf0b90ab75f8438ab93fb23bf&" width = 50px></picture> **About me**
 
 <br>
 
