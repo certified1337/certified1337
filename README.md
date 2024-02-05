@@ -14,7 +14,7 @@
 <br>
 
 - A passionate Self-taught Web Developer
-- Playing League Of Legends at spare time
+- Playing DDraceNetwork at spare time
 - Currently learning golang
 - Personal discord: @alihan200
 - I'm currently open for a business opportunity and partnership
