@@ -16,7 +16,7 @@
 - A passionate Self-taught Web Developer
 - Playing DDraceNetwork at spare time
 - Currently learning golang
-- Personal discord: @alihan200
+- Personal discord: @alihanzy
 - I'm currently open for a business opportunity and partnership
 
 <br><br>
